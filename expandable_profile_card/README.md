@@ -28,3 +28,34 @@ flutter_ui_components/
    ```bash
    git clone https://github.com/Mairaj-Malik/flutter_ui_components.git
    cd flutter_ui_components
+2. Install Dependencies
+   ```bash
+      flutter pub get
+3. Run the app
+   ```bash
+      flutter run
+
+#🧠 What I Learned
+- Implementing smooth UI transitions using AnimatedCrossFade
+- Using AnimationController and FadeTransition for subtle effects
+- Managing widget state in Flutter with StatefulWidget
+- Structuring clean and readable UI code
+- Organizing assets and project files properly
+
+#📌 About This Repository
+This repository will include multiple Flutter UI components like this one. Each component will be:
+- Standalone
+- Reusable
+- Well-structured and documented
+
+Stay tuned for more widgets!
+
+#🙋‍♂️ About Me
+Mairaj Malik
+Software Engineering Student | Flutter Developer in Progress
+
+🔗 LinkedIn:https://www.linkedin.com/in/mairajmalik
+📂 GitHub:https://github.com/Mairaj-Malik
+
+#⭐️ Feedback and Contributions
+If you find this useful, feel free to star ⭐ the repo and follow for more UI components. Contributions and suggestions are always welcome!
