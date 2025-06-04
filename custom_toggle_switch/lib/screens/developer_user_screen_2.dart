@@ -22,6 +22,7 @@ class _DeveloperUserScreenState extends State<DeveloperUserScreen> {
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
         actions: [
+
           Switch(
             inactiveThumbColor: Colors.greenAccent,
             value: isDeveloperMode,
